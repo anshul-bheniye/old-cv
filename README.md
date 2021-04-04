@@ -2,5 +2,9 @@
 
 I am currently learning and my website wil be up in two three days.
 
-
+Skills: I know 
+1. Javascript
+1. node.js
+2. replit.it
+4. basic html 5
 
