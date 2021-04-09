@@ -8,4 +8,13 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+}
+
+hr {
+	margin: 2rem 0rem;
+}
+
+.margin-md {
+	margin: 2rem;
 }
