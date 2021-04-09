@@ -157,3 +157,9 @@ hr {
 .footer ul {
 	padding-inline-start: 0px;
 }
+
+/* fonts */
+
+i.fab {
+	font-size: 2rem;
+}
