@@ -73,6 +73,16 @@ hr {
 	border-bottom-left-radius: 1rem;
 }
 
+.navigation ul {
+	list-style: none;
+	text-align: right;
+}
+
+.navigation a {
+	text-decoration: none;
+	color: white;
+}
+
 .navigation .nav-brand {
 	font-weight: bold;
 }
