@@ -158,8 +158,12 @@ hr {
 	padding-inline-start: 0px;
 }
 
-/* fonts */
+/* project*/
 
 i.fab {
 	font-size: 2rem;
+}
+
+ol li::marker {
+	font-size: xx-large;
 }
