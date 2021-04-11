@@ -1,10 +1,10 @@
 # Anshul Bheniye Portfolio
 
-I am currently learning and my website wil be up in two three days.
+- [X] I am currently learning and my website wil be up in two three days. (website is live)
+- [ ] Learning to write good commits
 
 Skills: I know 
 1. Javascript
 1. node.js
 2. replit.it
 4. basic html 5
-
