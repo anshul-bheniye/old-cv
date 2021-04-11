@@ -165,5 +165,5 @@ i.fab {
 }
 
 ol li::marker {
-	font-size: xx-large;
+	font-size: larger;
 }
