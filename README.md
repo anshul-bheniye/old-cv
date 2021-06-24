@@ -1,10 +1,9 @@
-# Anshul Bheniye Portfolio
+### Anshul Bheniye Portfolio
+---
+#### Skills: 
+HTML 5, CSS, JAVASCRIPT, NODE JS, GIT, GITHUB, REPLIT, CODESANDBOX
 
-- [X] I am currently learning and my website wil be up in two three days. (website is live)
-- [X] Learning to write good commits
+---
+![image](/images/Portfolio-readme.gif) 
 
-Skills: I know 
-1. Javascript
-1. node.js
-2. replit.it
-4. basic html 5
+---
