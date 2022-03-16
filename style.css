@@ -30,6 +30,10 @@ hr {
 	margin: auto;
 }
 
+.container-margin-left{
+	margin-left: 1.5rem;
+}
+
 /* links */
 .link {
 	box-sizing: border-box;
