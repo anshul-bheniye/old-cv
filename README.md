@@ -1,9 +1,3 @@
-### Anshul Bheniye Portfolio
----
-#### Skills: 
-HTML 5, CSS, JAVASCRIPT, NODE JS, GIT, GITHUB, REPLIT, CODESANDBOX
 
----
-![image](/images/Portfolio-readme.gif) 
-
----
+### UPDATE : 
+## This Site Is No Longer Updated. [Go back to React Portfolio]("https://anshulbheniye-reactportfolio.netlify.app")
